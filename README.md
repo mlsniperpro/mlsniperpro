@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Peter
-- 👀 I’m interested in Machine Learning, Quantitative Finance and Blockchain
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : algsmart.km@gmail.com
+Hi there! My name is Peter Okoth
+I have a degree in Mathematics and Economics from Murang'a University of Technology
+I'm intrested in Machine Learning, Blockchain Artchitecture and Quantitative Finance
+I enjoy working in Languages such as Python, R, Golang, JavaScript,C++,Solidty, and Julia.
 
-<!---
-mlsniperpro/mlsniperpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Do you want to reach me? Send me an email through my address : algsmart.km@gmail.com
+You can also send me a whatsapp message and I'll reply immediately through: +254713727575
+
+Thank you
