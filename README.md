@@ -1,5 +1,8 @@
-Hi there! My name is Peter Okoth
-I have a degree in Mathematics and Economics from Murang'a University of Technology
+WhatsApp/Call/text = +254713727575
+
+Name = > Peter Okoth
+
+Undergraduate => Mathematics and Economics 
 I'm intrested in Machine Learning, Blockchain Artchitecture and Quantitative Finance
 I enjoy working in Languages such as Python, R, Golang, JavaScript,C++,Solidty, and Julia.
 
