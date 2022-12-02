@@ -3,7 +3,7 @@
 
 I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my [website](https://adnanazmee.me/).
+### 🔭 Have a look at my [website](https://www.linkedin.com/in/pytah).
 
 
 ## ⚡ Tech Stack
