@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm [Peter Okoth](https://www.linkedin.com/in/pytah/), a passionate machine learning engineer and blockchain enthusiast. If I'm not designing large scale systems and architecting decentralized applications, I might be fitting large language models or designing next generation computer vision system. I'm a big fan of mountain biking, hiking and swimming. I'm also a big fan of open source and I love how collaboration and knowledge sharing happens through open source. 
+hi, i'm  a passionate machine learning engineer and blockchain enthusiast. If I'm not designing large scale systems and architecting decentralized applications, I might be fitting large language models or designing next generation computer vision system. I'm a big fan of mountain biking, hiking and swimming. I'm also a big fan of open source and I love how collaboration and knowledge sharing happens through open source. 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
